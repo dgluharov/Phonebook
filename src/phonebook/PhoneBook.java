@@ -67,7 +67,7 @@ public class PhoneBook {
         for (Map.Entry<String, Number> entry : phoneBook.entrySet()) {
             System.out.printf("Name: %20s |  Phone: %13s \n", entry.getKey(), entry.getValue().getPhoneNumber());
         }
-        System.out.println("Count of all calls: " + count);
+        System.out.println("Count of outgoing calls: " + count);
     }
 
     public boolean readFromFile(String path) {

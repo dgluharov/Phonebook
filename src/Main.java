@@ -23,9 +23,10 @@ public class Main {
 
             switch (choice) {
                 case 1:
-                    phoneBook.readFromFile(path);
                     if (phoneBook.readFromFile(path)) {
-
+                        System.out.println("Reading from file - Successful!");
+                    } else {
+                        System.out.println("Check the name or path file and restart the program!");
                     }
                     break;
                 case 2:
@@ -37,7 +38,7 @@ public class Main {
                         System.out.println("Creating new record - Successful!");
                         System.out.println("----------------------");
                     } else {
-                        System.out.println("The record has failed. The number is incorrect");
+                        System.out.println("The record has failed. The number is incorrect!");
                         System.out.println("----------------------");
                     }
                     break;
