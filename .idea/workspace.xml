@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0aeec77d-a3ed-4501-a8ed-b01f323093b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PhoneBook/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PhoneBook/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PhoneBook/phonebook/PhoneBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PhoneBook/phonebook/PhoneBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PhoneBook/test/PhoneBookTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PhoneBook/test/PhoneBookTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -101,8 +98,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="406" />
-    <option name="y" value="3" />
+    <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
   </component>
@@ -266,6 +262,9 @@
       <workItem from="1560249500821" duration="2304000" />
       <workItem from="1560255823598" duration="2136000" />
       <workItem from="1560319973556" duration="1200000" />
+      <workItem from="1560325408554" duration="590000" />
+      <workItem from="1560326403552" duration="134000" />
+      <workItem from="1560327556817" duration="166000" />
     </task>
     <task id="LOCAL-00001" summary="Phonebook task">
       <created>1560253902788</created>
@@ -338,7 +337,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36898000" />
+    <option name="totallyTimeSpent" value="37788000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -351,8 +350,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23524962" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19062027" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
